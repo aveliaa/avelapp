@@ -1,0 +1,6 @@
+projectKey=avelapp
+serverUrl=https://sonarqube.cs.ui.ac.id
+serverVersion=8.9.2.46101
+dashboardUrl=https://sonarqube.cs.ui.ac.id/dashboard?id=avelapp
+ceTaskId=AYZc99LzoB3q0Wl8w21I
+ceTaskUrl=https://sonarqube.cs.ui.ac.id/api/ce/task?id=AYZc99LzoB3q0Wl8w21I
